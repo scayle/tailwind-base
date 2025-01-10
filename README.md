@@ -10,25 +10,26 @@
 </h4>
 
 <p align="center">
-  The SCAYLE <strong>Tailwind Base Library</strong> offers a Panel tailwind preset.
+  The SCAYLE <strong>Tailwind Base Library</strong> offers a SCAYLE Panel tailwind preset.
 </p>
 
 <p align="center">
+  <a href="https://www.npmjs.com/package/@scayle/panel-icons"><img src="https://img.shields.io/npm/v/@scayle/tailwind-base" alt="Latest Release"></a>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="SCAYLE's *Panel Icon Library* is released under the MIT license." /></a>
   <a href="https://www.npmjs.com/package/@scayle/tailwind-base"><img src="https://img.shields.io/npm/dt/@scayle/components" alt="Total Downloads"></a>
 </p>
 
 ## Getting Started
 
-Visit the [Add-On Developer Guide](https://scayle.dev/en/dev/add-on/introduction) to learn more on how to use the Panel icons.
+Visit the [Add-On Developer Guide](https://scayle.dev/en/add-on-guide) to learn more on how to use the Panel icons.
 
 Visit the [Docs](https://scayle.dev) to learn more about our system requirements.
 
 ## What is Scayle ?
 
-[SCAYLE](https://scayle.com) is a full-featured e-commerce software solution that comes with flexible APIs. Within SCAYLE, you can manage all aspects of your shop, such as products, stocks, customers, and transactions.
+[SCAYLE](https://www.scayle.com) is a full-featured e-commerce software solution that comes with flexible APIs. Within SCAYLE, you can manage all aspects of your shop, such as products, stocks, customers, and transactions.
 
-Learn more about [Scayles’s architecture]() and [commerce modules]() in the Docs.
+Learn more about [SCAYLE’s architecture](https://scayle.dev/en/developer-guide/introduction/infrastructure) and [commerce modules](https://scayle.dev/en/getting-started) in the Docs.
 
 # @scayle/tailwind-base
 
@@ -684,8 +685,8 @@ The `spinner-overlay` class can be added to an element to display an opaque over
 ## Other channels
 
 - [LinkedIn](https://www.linkedin.com/company/scaylecommerce/)
-- [Jobs](https://careers.smartrecruiters.com/ABOUTYOUGmbH/scayle)
-- [AboutYou Tech Blog](https://aboutyou.tech/)
+- [Jobs](https://www.scayle.com/company/career/)
+- [SCAYLE](https://scayle.com)
 
 ## License
 Licensed under the [MIT](https://opensource.org/license/mit/)

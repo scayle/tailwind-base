@@ -23,8 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aboutyou/panel-packages",
-    "directory": "tailwind-base"
+    "url": "https://github.com/scayle/tailwind-base"
   },
   "scripts": {
     "checkchange": "beachball check",
@@ -32,7 +31,7 @@
     "release": "beachball publish --access public"
   },
   "dependencies": {
-    "@scayle/panel-icons": "^2.0.1",
+    "@scayle/panel-icons": "^2.2.0",
     "color": "^4.2.3"
   },
   "devDependencies": {
