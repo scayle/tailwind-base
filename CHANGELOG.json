@@ -1,0 +1,224 @@
+{
+  "name": "@scayle/tailwind-base",
+  "entries": [
+    {
+      "date": "Wed, 27 Nov 2024 07:21:57 GMT",
+      "version": "2.0.0",
+      "tag": "@scayle/tailwind-base_v2.0.0",
+      "comments": {
+        "major": [
+          {
+            "author": "pascal.rieger@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "d3adb222bc1a808127ede3b164f14c785275ff5f",
+            "comment": "Update panel-icons implementation and dependencies"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Thu, 12 Sep 2024 12:58:25 GMT",
+      "version": "1.2.4",
+      "tag": "@scayle/tailwind-base_v1.2.4",
+      "comments": {
+        "patch": [
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.4.2",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 19 Aug 2024 09:06:05 GMT",
+      "version": "1.2.3",
+      "tag": "@scayle/tailwind-base_v1.2.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.4.1",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Thu, 15 Aug 2024 07:56:00 GMT",
+      "version": "1.2.2",
+      "tag": "@scayle/tailwind-base_v1.2.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.4.0",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 15 Jul 2024 10:58:21 GMT",
+      "version": "1.2.1",
+      "tag": "@scayle/tailwind-base_v1.2.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.3.1",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Fri, 12 Jul 2024 08:57:01 GMT",
+      "version": "1.2.0",
+      "tag": "@scayle/tailwind-base_v1.2.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.3.0",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Thu, 25 Jan 2024 14:30:06 GMT",
+      "version": "1.1.3",
+      "tag": "@scayle/tailwind-base_v1.1.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "marcel.domke@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "12d3daceb7c75edd45d19189461062aada083cf0",
+            "comment": "chore: updated readme's to match scayle readme template"
+          },
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.2.1",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Tue, 24 Oct 2023 08:31:26 GMT",
+      "version": "1.1.2",
+      "tag": "@scayle/tailwind-base_v1.1.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "christian.buchholz@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "2bf5fb3ab210590e91b31875898ab71c619e91b1",
+            "comment": "added disabled color"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Fri, 17 Mar 2023 10:09:43 GMT",
+      "tag": "@scayle/tailwind-base_v1.1.1",
+      "version": "1.1.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "kaloyan.yosifov.ext@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "917790c05e487d0215047c9e3675de60d625ee8c",
+            "comment": "Fix dev environment"
+          },
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.2.0",
+            "commit": "661bd8a56cd0efc6aa57bc3db363303d61f2534c"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Fri, 10 Feb 2023 14:35:19 GMT",
+      "tag": "@scayle/tailwind-base_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "marcel.domke@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "e672704e39e60ba99438807367032bc899dcd866",
+            "comment": "Added a license file, updated package.json and updated the readme"
+          },
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.1.0",
+            "commit": "bfdea24b17e512434e9b37f6e01b9302269764a6"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Fri, 28 Oct 2022 13:33:05 GMT",
+      "tag": "@scayle/tailwind-base_v1.0.2",
+      "version": "1.0.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "connor.pearson@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "3eea38be9c06c9fd6ab0a41bb13d3390ff1a2d38",
+            "comment": "restore spinner size specificity"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Fri, 28 Oct 2022 09:31:52 GMT",
+      "tag": "@scayle/tailwind-base_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "connor.pearson@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "d9b0b55e485812f02b2f5638b9a19dd5d402473b",
+            "comment": "Fix .btn:disabled always having !important added"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Thu, 27 Oct 2022 07:48:09 GMT",
+      "tag": "@scayle/tailwind-base_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "major": [
+          {
+            "author": "connor.pearson@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "8e65f59afd8e9f42624765ee6c148577a03c0335",
+            "comment": "New package name"
+          },
+          {
+            "author": "beachball",
+            "package": "@scayle/tailwind-base",
+            "comment": "Bump @scayle/panel-icons to v1.0.0",
+            "commit": "b1024d425b39edf82b8679e7b53f219678e3a9c0"
+          }
+        ]
+      }
+    }
+  ]
+}

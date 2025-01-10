@@ -1,0 +1,58 @@
+{
+  "name": "@scayle/tailwind-base",
+  "version": "2.0.0",
+  "description": "A base Tailwind preset for Panel projects",
+  "homepage": "https://www.scayle.com/",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "core.js",
+    "utils.js",
+    "plugins/*",
+    "CHANGELOG.json",
+    "CHANGELOG.md",
+    "README.md"
+  ],
+  "keywords": [
+    "scayle",
+    "scayle panel",
+    "panel",
+    "tailwindcss",
+    "tailwindcss theme",
+    "tailwindcss preset"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aboutyou/panel-packages",
+    "directory": "tailwind-base"
+  },
+  "scripts": {
+    "checkchange": "beachball check",
+    "change": "beachball change --no-commit --package=@scayle/tailwind-base",
+    "release": "beachball publish --access public"
+  },
+  "dependencies": {
+    "@scayle/panel-icons": "^2.0.1",
+    "color": "^4.2.3"
+  },
+  "devDependencies": {
+    "beachball": "^2.47.1"
+  },
+  "peerDependencies": {
+    "tailwindcss": ">=3.1.0"
+  },
+  "volta": {
+    "node": "16.19.0",
+    "npm": "9.4.0"
+  },
+  "prettier": {
+    "overrides": [
+      {
+        "files": "package.json",
+        "options": {
+          "tabWidth": 2
+        }
+      }
+    ]
+  }
+}
