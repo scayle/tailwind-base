@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Updated readme.md and package.json",
+  "packageName": "@scayle/tailwind-base",
+  "email": "pascal.rieger@scayle.com",
+  "dependentChangeType": "patch"
+}
