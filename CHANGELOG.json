@@ -2,6 +2,21 @@
   "name": "@scayle/tailwind-base",
   "entries": [
     {
+      "date": "Tue, 14 Jan 2025 14:15:30 GMT",
+      "version": "2.0.1",
+      "tag": "@scayle/tailwind-base_v2.0.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "pascal.rieger@scayle.com",
+            "package": "@scayle/tailwind-base",
+            "commit": "224643552b7bcf32efbcdb6a68c6ff43206c09bc",
+            "comment": "Updated readme.md and package.json"
+          }
+        ]
+      }
+    },
+    {
       "date": "Wed, 27 Nov 2024 07:21:57 GMT",
       "version": "2.0.0",
       "tag": "@scayle/tailwind-base_v2.0.0",

@@ -1,6 +1,6 @@
 {
   "name": "@scayle/tailwind-base",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A base Tailwind preset for Panel projects",
   "homepage": "https://www.scayle.com/",
   "license": "MIT",

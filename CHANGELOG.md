@@ -1,8 +1,16 @@
 # Change Log - @scayle/tailwind-base
 
-This log was last generated on Wed, 27 Nov 2024 07:21:57 GMT and should not be manually modified.
+<!-- This log was last generated on Tue, 14 Jan 2025 14:15:30 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 2.0.1
+
+Tue, 14 Jan 2025 14:15:30 GMT
+
+### Patches
+
+- Updated readme.md and package.json (pascal.rieger@scayle.com)
 
 ## 2.0.0
 
